@@ -1,0 +1,4 @@
+land_type,max_height,pop_density_limit,near_main_road,setback_min,floor_area_ratio
+Residential,10,5000,yes,3,1.2
+Commercial,15,8000,no,5,1.5
+Industrial,20,10000,yes,7,2.0
